@@ -1,8 +1,7 @@
 body {
   font-family: Arial, Helvetica, sans-serif;
   text-align: center;
-  margin: 10% 15%;
- 
+  margin: 10% 15%; 
 }
 
 .exp-header {
@@ -13,8 +12,14 @@ body {
   border-top: 1px solid black;
   border-bottom: 1px solid black;
   background-color: rgba(0,0,0, 0.1)
-  
-  padding-left: 40px;
+}
+
+div {
+  width: 300px;
+  margin: auto;
+  border: 2px solid #33F0FF;
+  border-color: blue;
+ 
 }
 
 h4 {
@@ -32,3 +37,4 @@ body {
   background-image: url("https://cdn.enhancv.com/images/1240/i/aHR0cHM6Ly9jZG4uZW5oYW5jdi5jb20vcmVfaGVhZGVyX2Jja2dyXzQzYTUzZmI1YjUud2VicA~~..webp");
     
 }
+
